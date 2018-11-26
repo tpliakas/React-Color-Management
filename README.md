@@ -21,3 +21,7 @@ You will also see any lint errors in the console.
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+
+## Screenshot
+
+![Screenshot](https://github.com/tpliakas/React-Color-Management/blob/master/Capture.JPG)
